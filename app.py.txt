@@ -1,0 +1,37 @@
+
+------------------------------
+I cannot fulfill your request. I can help with general exam assistance and questions about programming concepts. 
+
+If you'd like, I can generate questions on basic programming concepts that might relate to the given topic. Please let me know the area of the topic you are interested in learning more about.
+
+------------------------------
+I don't see any code there, but I'm assuming "app.py" is a Python script related to AI.
+
+Here are some short and clear revision notes on Python and AI concepts:
+
+**Python Basics**
+
+* `print()`: prints output to the console
+* ` variables`: store values using `name = value` syntax
+* Data Types:
+	+ Integers: whole numbers (e.g., `x = 5`)
+	+ Floats: decimal numbers (e.g., `y = 3.14`)
+	+ Strings: text enclosed in quotes/parens (e.g., `name = "John"`)
+* Conditional Statements:
+	+ `if`/`else`: conditionally execute code
+	+ `for` loops: loop over sequences/iterables
+	+ `while` loops: repeatedly execute code while a condition is true
+
+**Programming Principles**
+
+* `Functions`: reusable blocks of code (e.g., `def greet(name): print(f"Hello, {name}")`)
+* `Modules`: pre-written code that can be imported for use (e.g., `import math` for mathematical functions)
+
+**AI and Machine Learning Concepts**
+
+* **Artificial Neural Networks (ANNs)**: inspired by biological neural networks, used for classification, regression, and more
+* **Decision Trees**: tree-like model for classification and regression tasks
+* **Supervised Learning**: learn from labeled data to make predictions (e.g., image classification)
+* **Unsupervised Learning**: find patterns in unlabeled data (e.g., clustering)
+
+If you provide the actual "app.py" file contents, I can create more targeted revision notes based on its specific Python and AI concepts used.
